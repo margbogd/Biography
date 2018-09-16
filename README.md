@@ -1,2 +1,4 @@
 # Biography
-FCC challenge_just for practice
+FCC challenge | just for practice
+
+
