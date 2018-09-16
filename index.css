@@ -1,0 +1,120 @@
+body {
+	margin-top: 60px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	color: #333;
+	background-color: #fff;
+}
+
+.container {
+	padding-left: 15px;
+	padding-right: 15px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.container, .jumbotron {
+	border-radius: 6px;
+}
+
+.jumbotron {
+	padding: 30px 0 30px 0;
+	margin-bottom: 30px;
+	color: inherit;
+	background-color: #eee;
+}
+
+.row {
+	margin: 0 -15px 0 -15px;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+div {
+	display: block;
+}
+
+.col-xs-12 {
+	width: 100%
+}
+
+.title, .second-title {
+	text-align: center;
+	margin: 20px 0 10px 0;
+}
+
+.title {
+	font-size: 36px;
+	color: inherit;
+}
+
+.second-title {
+	font-size: 30px;
+}
+
+.thumbnail>img {
+	margin-right: auto;
+	margin-left: auto;
+}
+
+img {
+	vertical-align: middle;
+	border: 0;
+}
+
+.thumbnail .photo-caption {
+	padding: 9px;
+	color: #333;
+}
+
+.photo-caption {
+	text-align: center;
+}
+
+ul {
+	margin-top: 0;
+	margin-bottom: 10px;
+}
+
+li {
+	display: list-item;
+	text-align: -webkit-match-parent;
+}
+
+strong {
+	font-weight: 700;
+}
+
+blockquote {
+	padding: 10px 20px;
+	margin: 0 0 20px;
+	font-size: 17.5px;
+	border-left: 5px solid rgb(238, 238, 238);
+}
+
+.jumbotron p {
+	margin-bottom: 15px;
+	font-size: 21px;
+	font-weight: 200;
+}
+
+p {
+	margin: 0 0 10px;
+}
+
+h3 {
+	font-size: 23px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.text-center {
+	text-align: center;
+}
+
+i {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #1E90FF;
+}
